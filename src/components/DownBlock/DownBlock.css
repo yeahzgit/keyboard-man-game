@@ -1,0 +1,16 @@
+.down-block-box{
+	width: 240px;
+	margin: 0 auto;
+}
+.down-block{
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+}
+
+.down-block-col{
+	height: 250px;
+	width: 60px;
+	background: #ecf0f1;
+	border: 1px solid black;
+}
