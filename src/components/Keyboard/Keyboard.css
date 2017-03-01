@@ -1,6 +1,6 @@
 .keyboard-box{
 	width: 1000px;
-	margin: 0 auto;
+	margin: 0px auto;
 	padding-bottom: 15px;
 	border-radius: 4px;
 	background: #8997a4;
@@ -9,7 +9,7 @@
 
 .keyboard{
 	width: 1000px;
-	margin: 0 auto;
+	margin: 10px auto;
 	border-radius: 4px;
 	background: #bdc3c7;
 	display: flex;
@@ -21,7 +21,7 @@
 	margin: 4px 8px 4px 8px;
 	padding-bottom: 8px;
 	background: #3a3a3a;
-	border-radius: 2px;
+	border-radius: 3px;
 	box-shadow: 0px 0px 12px #34495e;
 }
 
